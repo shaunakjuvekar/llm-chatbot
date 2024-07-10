@@ -16,6 +16,7 @@ All environment variables needed to build and run the chatbot are stored in a .e
 ## How I Built This Project
 
 1. Learning LangChain:
+
 I started by getting familiar with LangChain and setting up the initial environment. This included understanding the basics of LangChain and preparing the necessary tools.
 
 2. Data Exploration:

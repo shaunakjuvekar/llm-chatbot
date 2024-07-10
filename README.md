@@ -39,6 +39,6 @@ I built a Streamlit app in the chatbot_frontend/ directory to interact with the 
 To build and run the project, clone the repo, create the API keys and Neo4j store and create a env file in the root directory with the configured values.
 To run the project, type in the terminal:
 
-‘’’
+```
 docker-compose up --build
-‘’’  
+```  

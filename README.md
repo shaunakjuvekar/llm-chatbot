@@ -41,4 +41,3 @@ To run the project, type in the terminal:
 
 ```
 docker-compose up --build
-```  
